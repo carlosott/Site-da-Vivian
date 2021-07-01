@@ -11,10 +11,11 @@ body{
 }
 
 header{
-    font-family: Chequers;
+    font-family: 'Spartan', sans-serif;
+    /* font-family: Chequers; */
     font-size: 100px;
     text-align: center;
-    font-weight: 600;
+    font-weight: 200;
 }
 h1{
     font-size: 40px;
