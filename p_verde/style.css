@@ -1,0 +1,146 @@
+body{
+    font-family: Mandala;
+    /* color: rgb(71, 71, 71); */
+    /* background-color: rgb(122, 141, 91); */
+}
+
+header{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 600;
+}
+h1{
+    font-size: 40px;
+    font-weight: normal;
+}
+h2{
+    font-size:20px;
+    font-weight: normal;
+}
+a, a:hover, a:visited, a:active {
+    /* color: #BEB5AC; */
+    color: black;
+    text-decoration: none;
+   }
+.cinza1{
+    color: white;
+    border-color: white;
+    background-color: #6A6F4F;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.cinza2{
+    color: white;
+    border-color: white;
+    background-color:#8F956F;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.cinza3{
+    color: white;
+    border-color: white;
+    background-color: #9FA486;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.cinza4{
+    color: white;
+    border-color: white;
+    background-color: #9C9F8E;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.marrom1{
+    color: #AF7452;
+    border-color: #AF7452;
+    background-color: #6A6F4F;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.marrom2{
+    color: #C0896A;
+    border-color: #C0896A;
+    background-color: #8F956F;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.marrom3{
+    color: #A87F69;
+    border-color: #A87F69;
+    background-color: #9FA486;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.marrom4{
+    color: #B99885;
+    border-color: #B99885;
+    background-color: #9C9F8E;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.verde1{
+    color: #867C70;
+    border-color: #867C70;
+    background-color: #6A6F4F;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.verde2{
+    color: #938B80;
+    border-color: #938B80;
+    background-color: #8F956F;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.verde3{
+    color: #A49D95;
+    border-color: #A49D95;
+    background-color:#9FA486;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.verde4{
+    color: #BEB5AC;
+    border-color: #BEB5AC;
+    background-color: #9C9F8E;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+footer{
+    text-align: center;
+
+}

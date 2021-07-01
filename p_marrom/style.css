@@ -1,0 +1,146 @@
+body{
+    font-family: Mandala;
+    /* color: rgb(71, 71, 71); */
+    /* background-color: rgb(122, 141, 91); */
+}
+
+header{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 600;
+}
+h1{
+    font-size: 40px;
+    font-weight: normal;
+}
+h2{
+    font-size:20px;
+    font-weight: normal;
+}
+a, a:hover, a:visited, a:active {
+    /* color: #BEB5AC; */
+    color: black;
+    text-decoration: none;
+   }
+.cinza1{
+    color: white;
+    border-color: white;
+    background-color: #AF7452;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.cinza2{
+    color: white;
+    border-color: white;
+    background-color:#C0896A;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.cinza3{
+    color: white;
+    border-color: white;
+    background-color: #A87F69;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.cinza4{
+    color: white;
+    border-color: white;
+    background-color: #B99885;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.marrom1{
+    color: #867C70;
+    border-color: #867C70;
+    background-color: #AF7452;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.marrom2{
+    color: #938B80;
+    border-color: #938B80;
+    background-color: #C0896A;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.marrom3{
+    color: #A49D95;
+    border-color: #A49D95;
+    background-color: #A87F69;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.marrom4{
+    color: #BEB5AC;
+    border-color: #BEB5AC;
+    background-color: #B99885;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.verde1{
+    color: #6A6F4F;
+    border-color: #6A6F4F;
+    background-color: #AF7452;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.verde2{
+    color: #8F956F;
+    border-color: #8F956F;
+    background-color: #C0896A;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.verde3{
+    color: #9FA486;
+    border-color: #9FA486;
+    background-color:#A87F69;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+.verde4{
+    color: #9C9F8E;
+    border-color: #9C9F8E;
+    background-color: #B99885;
+    border-radius: 8px;
+    border:solid;
+    width: 350px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+footer{
+    text-align: center;
+
+}
