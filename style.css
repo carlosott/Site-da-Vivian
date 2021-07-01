@@ -1,5 +1,10 @@
+@font-face {
+    font-family: Chequers;
+    src: url('./chequers-regular.ttf');
+}
+
 body{
-    font-family: Chequers DEMO;
+    font-family: Chequers;
     background-color: #9fa486;
     color: #ededed;
     /* background-color: rgb(122, 141, 91); */
