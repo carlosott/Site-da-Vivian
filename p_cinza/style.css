@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+  }
 body{
     font-family: Mandala;
     /* color: rgb(71, 71, 71); */

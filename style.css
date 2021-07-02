@@ -2,7 +2,9 @@
     font-family: Chequers;
     src: url('./chequers-regular.ttf');
 }
-
+html {
+  scroll-behavior: smooth;
+}
 body{
     font-family: 'Spartan', sans-serif;
     background-color: #9fa486;
